@@ -1,25 +1,17 @@
 # TEAM INFORMATION
-| Team Number  | Category       | Description |
-|-------------|---------------|-------------|
-| Team 1      | Days Scholar   | Mines URLs from browser's heap snapshots to identify security risks. |
-| Team 2      | Days Scholar   | A messaging platform with encryption for secure communication. |
-| Team 3      | Days Scholar   | A fuzzer for detecting open redirect vulnerabilities. |
-| Team 4      | Days Scholar   | Automates asset monitoring via live CT logs. |
-| Team 5      | Days Scholar   | Runs multiple commands in parallel for better performance. |
-| Team 6      | Days Scholar   | Monitors DNS queries from a machine. |
-| Team 7      | Days Scholar/Hosteler | Terminal-based note manager. |
-| Team 8      | Days Scholar/Hosteler | Analyzes SSL/TLS configurations. |
-| Team 9      | Days Scholar   | Fetches updated DNS resolvers. |
-| Team 10     | Days Scholar/Hosteler | Performs reverse WHOIS lookups using whoisxml API. |
-| Team 11     | Days Scholar   | Face recognition-based security authentication. |
-| Team 12     | Days Scholar   | Detects abnormal patterns in network traffic. |
-| Team 13     | Days Scholar   | Captures and analyzes network packets. |
-| Team 14     | Days Scholar   | Fetches updated DNS resolvers. |
-| Team 15     | Days Scholar   | Fuzzer for HTTP header security testing. |
-| Team 16     | Days Scholar/Hosteler | Extracts domain names from SSL/TLS certs. |
-| Team 17     | Days Scholar   | Audits DNS configurations using Zonemaster API. |
-| Team 18     | Days Scholar   | Manages bug hunting and pentesting workflows. |
-| Team 19     | Days Scholar   | Traverses SSL/TLS certificates for DNS collection. |
-| Team 20     | Days Scholar   | Records keystrokes to monitor user input. |
-| Team 21     | Days Scholar   | Encrypts images for security. |
-| Team 22     | Days Scholar   | Analyzes domain security and vulnerabilities. |
+| Team Number | Hostel/Daysscholar | Description |
+|-------------|-------------------|-------------|
+| Team 1     | Hosteler          | Rapid Scan - It is quite a fuss for a pentester to perform binge-tool-scanning (running security scanning tools one after the other) sans automation. |
+| Team 2     | Hosteler          | ParamSpider - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing. |
+| Team 3     | Hosteler          | FavFreak - Making Favicon.ico based Recon Great again. |
+| Team 4     | Hosteler          | WebsiteChanged - Track Website Changes like wayback machine. |
+| Team 5     | Hosteler          | CDN Ranges - Tool to download a list of IPv4 and IPv6 ranges used by CDNs. This helps to avoid performing unnecessary port scans when doing bug bounties. |
+| Team 6     | Hosteler          | getsan - A utility to fetch and display DNS names from the SSL/TLS cert data. |
+| Team 7     | Hosteler          | ip2asn - A utility to quickly map IP addresses to their respective ASN. |
+| Team 8     | Hosteler          | Watson - Watson is a utility for note management and search from your terminal. |
+| Team 9     | Hosteler          | Evil Limiter - A tool to monitor, analyze and limit the bandwidth (upload/download) of devices on your local network without physical or administrative access. |
+| Team 10    | Hosteler          | ip2cloud - Check IP addresses against known cloud provider IP address ranges. |
+| Team 11    | Hosteler          | revit - A command-line utility for performing reverse DNS lookups. |
+| Team 12    | Hosteler          | SSLyze - SSLyze can analyze the SSL/TLS configuration of a server by connecting to it. |
+| Team 13    | Hosteler          | revwhoix - A simple utility to perform reverse WHOIS lookups using whoisxml API. |
+
